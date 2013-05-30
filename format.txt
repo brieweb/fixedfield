@@ -1,0 +1,15 @@
+record person
+	fname PIC X(14).
+	lname PIC AAAAAAAAAAAAA.
+	zip PIC 9(5).
+	age PIC 999.
+;
+record city
+name PIC XXXXXXXXXXXXXXXXXXXX.
+founded PIC 9(4).
+zip PIC 9(5).
+;
+record school
+schoolName PIC A(45).
+city PIC X(4).
+;
